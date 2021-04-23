@@ -1,15 +1,40 @@
-[
-  "https://stghybrisin.lulumea.com/medias/Banner-1-2x.png?context=bWFzdGVyfHJvb3R8NjgyOTV8aW1hZ2UvcG5nfGg0Yi9oNTIvODgzNzQ4NTU1OTgzOC9CYW5uZXIgMUAyeC5wbmd8ODBjODYwYmE2OTgwYTBkNTFlY2U4OGZjZWY5ZGQwODk3YjIyMGQyMTRkOTczYWNiNDI0MDQ1MmRjOTFhNGE0ZQ",
-  "https://stghybrisin.lulumea.com/medias/Banner-2-2x.png?context=bWFzdGVyfHJvb3R8NjQ2NDN8aW1hZ2UvcG5nfGg1Yy9oNTUvODgzNzQ4NTYyNTM3NC9CYW5uZXIgMkAyeC5wbmd8ZTZlMTk5MjVkNDlmNzc4NWJlN2RjYThkZDU4NTBmZDI5YWE3NGRlNzRjZWFjMTYzZTQwZTJkYjlmNjQ1YzI5MA",
-  "https://stghybrisin.lulumea.com/medias/Mini-Banner-1-2x.png?context=bWFzdGVyfHJvb3R8NDI4MDR8aW1hZ2UvcG5nfGhjZS9oYjQvODgzNzQ4NjMxMzUwMi9NaW5pIEJhbm5lciAxQDJ4LnBuZ3xhNWY3ZGQwZDBjNDcyOTExODlkYjYyZDI1NThjZWNmNjYyYzg0N2EwZWI0YmMzZDI1OThlMGU0ZDEyZWRkZDAw",
-  "https://stghybrisin.lulumea.com/medias/Fashion-1-2x.png?context=bWFzdGVyfHJvb3R8NzU1Njl8aW1hZ2UvcG5nfGg3Yy9oYjUvODgzNzQ4NjM3OTAzOC9GYXNoaW9uIDFAMngucG5nfGU1MDgwYzM1OTg0MTI1NGE2ZmExMDBkNjZjODAwYjkyYjc4ODIxOGZmNzdhYmZmOWZlZTQ1NDRkMmQzZTMxNzg",
-  "https://stghybrisin.lulumea.com/medias/Fashion-3-2x.png?context=bWFzdGVyfHJvb3R8MjQ1Nzl8aW1hZ2UvcG5nfGg4ZC9oYjgvODgzNzQ4NjQ0NDU3NC9GYXNoaW9uIDNAMngucG5nfDJlMTkwZjQ0NGMyOWFmOWU4Mjk1ZThhMmMxYWRhOThlMDEwZDIxYTQ4ZjIzNjA3YjM3YTBmZWUzNWU3YzY3MzE",
-  "https://stghybrisin.lulumea.com/medias/Fashion-2-2x.png?context=bWFzdGVyfHJvb3R8MjMzNDV8aW1hZ2UvcG5nfGg5ZS9oYmIvODgzNzQ4NjUxMDExMC9GYXNoaW9uIDJAMngucG5nfDU0NGFkZThiYWQyYmNkN2I5OTdlODVkMTk3ZWNlYmYyM2U5YzQ1YzkxNmJlMDQ3ZDhjYTFiYTU2OTRmZDY5YzQ",
-  "https://stghybrisin.lulumea.com/medias/Mobile-1-2x.png?context=bWFzdGVyfHJvb3R8NTA2MDR8aW1hZ2UvcG5nfGg0Yy9oYmMvODgzNzQ4NjU3NTY0Ni9Nb2JpbGUgMUAyeC5wbmd8Mjk4ZjIwY2ZjMmQ5OGNkNzJkODEzNTk3MjQ2MGYwZjQzZDI5NjExNjc4NmM0NTAyZDY2YTM1ODFjZTQ1ZWExYw",
-  "https://stghybrisin.lulumea.com/medias/Mobile-2-2x.png?context=bWFzdGVyfHJvb3R8MTE3MjZ8aW1hZ2UvcG5nfGg1ZC9oYmYvODgzNzQ4NjY0MTE4Mi9Nb2JpbGUgMkAyeC5wbmd8ODZkMTVmMGM1YTU0NDE1OGExY2FmN2EzM2UzNmU2YTNhY2YzOGU2YjRjMjJiZjUwMTE5MTVkYjgzMDhmZDFmMw",
-  "https://stghybrisin.lulumea.com/medias/Mobile-3-2x.png?context=bWFzdGVyfHJvb3R8ODc4NHxpbWFnZS9wbmd8aDViL2hjMi84ODM3NDg2NzA2NzE4L01vYmlsZSAzQDJ4LnBuZ3w1MDIzZjUxNzA5ZDIwNmYyNjdmNDY0YzA0YmRhNWIzZGUwYTY3OWRjZTQ5Nzg4YTRiYmYzZjIxZWNiNjY4Mzll",
-  "https://stghybrisin.lulumea.com/medias/Beauty-1-2x.png?context=bWFzdGVyfHJvb3R8MzAyMzl8aW1hZ2UvcG5nfGgxYy9oYzMvODgzNzQ4Njc3MjI1NC9CZWF1dHkgMUAyeC5wbmd8MzE3MjAzN2IwYzIxYTMyODQyNzJkMjVjOTQyM2UyNTg2YTU0YmYwYTM1NWVlMzI4OWU2NzgwNTE1NjYwN2Q5ZQ",
-  "https://stghybrisin.lulumea.com/medias/Block-1-2x.png?context=bWFzdGVyfHJvb3R8MTc3NDJ8aW1hZ2UvcG5nfGg5NS9oNWYvODgzNzQ4NTkyMDI4Ni9CbG9jayAxQDJ4LnBuZ3xiMzY0ZGU2YzQ5NzIyYzEzZWNjZjY3NDM3NzQ4OGEwNWJlMTVlNTFmMGM5ZjdjODVhMDAxOWE5MzdkNzc3ZTVi",
-  "https://stghybrisin.lulumea.com/medias/Beauty-2-2x.png?context=bWFzdGVyfHJvb3R8OTY2NXxpbWFnZS9wbmd8aDFhL2hjNi84ODM3NDg2ODM3NzkwL0JlYXV0eSAyQDJ4LnBuZ3xhOWY0OGEzMzNhN2VjYTlhZGM1NGQ1MTQxMTIxNzMxNzM0OWRjYzdlM2VmYzhiMWYwNzA1ZWM3NDY4NTY1Y2Ri",
-  "https://stghybrisin.lulumea.com/medias/Beauty-3-2x.png?context=bWFzdGVyfHJvb3R8MTQxOTJ8aW1hZ2UvcG5nfGgyYi9oYzkvODgzNzQ4NjkwMzMyNi9CZWF1dHkgM0AyeC5wbmd8MDUxNDFiNzE5OTZiMGZhNTQ3ZWZhZjI2YTM3OTk3ODRiNzg5M2MxZTc4MWYwMTc2ZDdkZGFkNDg2MzE1OTExMg"
-]
+{
+  "images": [
+    {
+      "url": "https://stghybrisin.lulumea.com/medias/Banner-1-2x.png?context=bWFzdGVyfHJvb3R8NjgyOTV8aW1hZ2UvcG5nfGg0Yi9oNTIvODgzNzQ4NTU1OTgzOC9CYW5uZXIgMUAyeC5wbmd8ODBjODYwYmE2OTgwYTBkNTFlY2U4OGZjZWY5ZGQwODk3YjIyMGQyMTRkOTczYWNiNDI0MDQ1MmRjOTFhNGE0ZQ"
+    },
+    {
+      "url": "https://stghybrisin.lulumea.com/medias/Banner-2-2x.png?context=bWFzdGVyfHJvb3R8NjQ2NDN8aW1hZ2UvcG5nfGg1Yy9oNTUvODgzNzQ4NTYyNTM3NC9CYW5uZXIgMkAyeC5wbmd8ZTZlMTk5MjVkNDlmNzc4NWJlN2RjYThkZDU4NTBmZDI5YWE3NGRlNzRjZWFjMTYzZTQwZTJkYjlmNjQ1YzI5MA"
+    },
+    {
+      "url": "https://stghybrisin.lulumea.com/medias/Mini-Banner-1-2x.png?context=bWFzdGVyfHJvb3R8NDI4MDR8aW1hZ2UvcG5nfGhjZS9oYjQvODgzNzQ4NjMxMzUwMi9NaW5pIEJhbm5lciAxQDJ4LnBuZ3xhNWY3ZGQwZDBjNDcyOTExODlkYjYyZDI1NThjZWNmNjYyYzg0N2EwZWI0YmMzZDI1OThlMGU0ZDEyZWRkZDAw"
+    },
+    {
+      "url": "https://stghybrisin.lulumea.com/medias/Fashion-1-2x.png?context=bWFzdGVyfHJvb3R8NzU1Njl8aW1hZ2UvcG5nfGg3Yy9oYjUvODgzNzQ4NjM3OTAzOC9GYXNoaW9uIDFAMngucG5nfGU1MDgwYzM1OTg0MTI1NGE2ZmExMDBkNjZjODAwYjkyYjc4ODIxOGZmNzdhYmZmOWZlZTQ1NDRkMmQzZTMxNzg"
+    },
+    {
+      "url": "https://stghybrisin.lulumea.com/medias/Fashion-3-2x.png?context=bWFzdGVyfHJvb3R8MjQ1Nzl8aW1hZ2UvcG5nfGg4ZC9oYjgvODgzNzQ4NjQ0NDU3NC9GYXNoaW9uIDNAMngucG5nfDJlMTkwZjQ0NGMyOWFmOWU4Mjk1ZThhMmMxYWRhOThlMDEwZDIxYTQ4ZjIzNjA3YjM3YTBmZWUzNWU3YzY3MzE"
+    },
+    {
+      "url": "https://stghybrisin.lulumea.com/medias/Fashion-2-2x.png?context=bWFzdGVyfHJvb3R8MjMzNDV8aW1hZ2UvcG5nfGg5ZS9oYmIvODgzNzQ4NjUxMDExMC9GYXNoaW9uIDJAMngucG5nfDU0NGFkZThiYWQyYmNkN2I5OTdlODVkMTk3ZWNlYmYyM2U5YzQ1YzkxNmJlMDQ3ZDhjYTFiYTU2OTRmZDY5YzQ"
+    },
+    {
+      "url": "https://stghybrisin.lulumea.com/medias/Mobile-1-2x.png?context=bWFzdGVyfHJvb3R8NTA2MDR8aW1hZ2UvcG5nfGg0Yy9oYmMvODgzNzQ4NjU3NTY0Ni9Nb2JpbGUgMUAyeC5wbmd8Mjk4ZjIwY2ZjMmQ5OGNkNzJkODEzNTk3MjQ2MGYwZjQzZDI5NjExNjc4NmM0NTAyZDY2YTM1ODFjZTQ1ZWExYw"
+    },
+    {
+      "url": "https://stghybrisin.lulumea.com/medias/Mobile-2-2x.png?context=bWFzdGVyfHJvb3R8MTE3MjZ8aW1hZ2UvcG5nfGg1ZC9oYmYvODgzNzQ4NjY0MTE4Mi9Nb2JpbGUgMkAyeC5wbmd8ODZkMTVmMGM1YTU0NDE1OGExY2FmN2EzM2UzNmU2YTNhY2YzOGU2YjRjMjJiZjUwMTE5MTVkYjgzMDhmZDFmMw"
+    },
+    {
+      "url": "https://stghybrisin.lulumea.com/medias/Mobile-3-2x.png?context=bWFzdGVyfHJvb3R8ODc4NHxpbWFnZS9wbmd8aDViL2hjMi84ODM3NDg2NzA2NzE4L01vYmlsZSAzQDJ4LnBuZ3w1MDIzZjUxNzA5ZDIwNmYyNjdmNDY0YzA0YmRhNWIzZGUwYTY3OWRjZTQ5Nzg4YTRiYmYzZjIxZWNiNjY4Mzll"
+    },
+    {
+      "url": "https://stghybrisin.lulumea.com/medias/Beauty-1-2x.png?context=bWFzdGVyfHJvb3R8MzAyMzl8aW1hZ2UvcG5nfGgxYy9oYzMvODgzNzQ4Njc3MjI1NC9CZWF1dHkgMUAyeC5wbmd8MzE3MjAzN2IwYzIxYTMyODQyNzJkMjVjOTQyM2UyNTg2YTU0YmYwYTM1NWVlMzI4OWU2NzgwNTE1NjYwN2Q5ZQ"
+    },
+    {
+      "url": "https://stghybrisin.lulumea.com/medias/Beauty-2-2x.png?context=bWFzdGVyfHJvb3R8OTY2NXxpbWFnZS9wbmd8aDFhL2hjNi84ODM3NDg2ODM3NzkwL0JlYXV0eSAyQDJ4LnBuZ3xhOWY0OGEzMzNhN2VjYTlhZGM1NGQ1MTQxMTIxNzMxNzM0OWRjYzdlM2VmYzhiMWYwNzA1ZWM3NDY4NTY1Y2Ri"
+    },
+    {
+      "url": "https://stghybrisin.lulumea.com/medias/Beauty-3-2x.png?context=bWFzdGVyfHJvb3R8MTQxOTJ8aW1hZ2UvcG5nfGgyYi9oYzkvODgzNzQ4NjkwMzMyNi9CZWF1dHkgM0AyeC5wbmd8MDUxNDFiNzE5OTZiMGZhNTQ3ZWZhZjI2YTM3OTk3ODRiNzg5M2MxZTc4MWYwMTc2ZDdkZGFkNDg2MzE1OTExMg"
+    }
+  ]
+}
